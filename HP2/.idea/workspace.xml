@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:upstream" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a432517a-7188-4595-8ace-c0702ce70c09" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../HP1/basic_aligner.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HP1/basic_aligner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic_hasher.py" beforeDir="false" afterPath="$PROJECT_DIR$/basic_hasher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HP3/basic_assembly.py" beforeDir="false" afterPath="$PROJECT_DIR$/../HP3/basic_assembly.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1c3jZ6cHAyFKWx5dYdpj4WFeUCI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a432517a-7188-4595-8ace-c0702ce70c09" name="Default Changelist" comment="" />
+      <created>1589764223691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589764223691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="720" height="405" key="XDebugger.FullValuePopup" timestamp="1590124936969">
+      <screen x="0" y="23" width="1440" height="810" />
+    </state>
+    <state width="720" height="405" key="XDebugger.FullValuePopup/0.23.1440.810@0.23.1440.810" timestamp="1590124936969" />
+    <state width="720" height="406" key="XDebugger.FullValuePopup/0.23.1440.811@0.23.1440.811" timestamp="1589871271116" />
+    <state x="369" y="151" width="700" height="530" key="recent.locations.popup" timestamp="1589871323755">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="369" y="151" width="700" height="530" key="recent.locations.popup/0.23.1440.811@0.23.1440.811" timestamp="1589871323755" />
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup" timestamp="1589872622217">
+      <screen x="0" y="23" width="1440" height="811" />
+    </state>
+    <state x="385" y="158" width="670" height="676" key="search.everywhere.popup/0.23.1440.811@0.23.1440.811" timestamp="1589872622217" />
+  </component>
+</project>

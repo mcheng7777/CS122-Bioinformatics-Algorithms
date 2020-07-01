@@ -1,0 +1,6 @@
+Michael Cheng
+UID: 604928535
+
+10 kb Alignment Project
+
+	After reading in the reads and reference genome, I hashed the genome into k-mers of length 10, meaning the length 50 reads will be aligned in 5 fragments of length 10. I stored reads and their fragments' start positions (if they exist) on the reference genome, but I did not store reads that had 0 mapped fragments. Then, I took the unaligned positions in the reads and compared them to the reference genome at their inferred positions relative to known positions of the read, keeping track of positions where a mismatch occurs. I kept reads with under 4 total mismatches and classified the mismatch positions as SNPs only if the most abundant nucleotide among the reads spanning that position was different than the reference genome. 

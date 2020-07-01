@@ -1,0 +1,6 @@
+Michael Cheng
+UID: 604928535
+
+Isoform Quantification Summary
+
+I first used the exon positions to identify the exome. Then I aligned each read to the exome (including exon/isoform junctions) and kept track of the number of reads that map to the exons. I then applied least squares regression to quantify the expression of each isoform.

@@ -1,0 +1,19 @@
+CS CM122 Project 3 Assembly
+
+	I separated the paired ends and created a dictionary of read IDs (from 1-20000) and their 
+
+respective k-mer composition (k chosen as 30), as well as another dictionary of unique k-mers among 
+
+all the reads and their respective read ID and position in the read. To remove errors, I counted 
+
+the k-mer abundances and filtered out erroneous k-mers as those with an abundance of 5 or below. 
+
+For the Debruijn graph, I quantified the nodes by identifying the number of occurrences of a k-mer 
+
+in the genome by their abundance in the reads, setting a count of <30 or 30-60 as 1 occurrence in 
+
+the genome, 60-90 as 2 occurrences, etc. I then implemented a Debruijn graph with adjacency lists 
+
+and used the k-mer dictionary I created to map contigs to the reads, which provided context for 
+
+traversing the Debruijn graph more accurately. 

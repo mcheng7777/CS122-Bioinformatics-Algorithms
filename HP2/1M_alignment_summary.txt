@@ -1,0 +1,6 @@
+Michael Cheng
+UID: 604928535
+
+1M Genome Alignment Summary
+
+I resorted to the hashing approach because my efforts with implementing a memory-efficient BWT algorithm were unsuccessful. After hashing the reference genome and splitting the paired end reads, I divided reads into 5 fragments of length 10 and filtered out reads to either a potential-SNP dictionary or a potential-indel dictionary depending on whether the read is under the threshold of 4 errors. I found SNPs by comparing the mismatched read with other reads spanning the position in the reference genome to determine whether the mismatch is an error or a SNP. I found indels by using Smith-Waterman local alignment algorithm, using dynamic programming to find the maximum scores for positions in the score matrix and a backtracking matrix to find the path of the local alignment.
